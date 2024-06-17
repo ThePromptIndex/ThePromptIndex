@@ -10,7 +10,10 @@ Advanced prompt crafting and the latest in AI-driven creativity.
 Innovative AI prompt projects and prompt databases.
 
 ## 📫 How to reach me
-- [Visit my website](https://www.thepromptindex.com)
+- Check out my projects:
+[The Prompt Index - A Prompt Database](https://www.thepromptindex.com)
+[The Ministry Of AI - A Place to learn about AI](https://www.thepromptindex.com)
+
 - [Sign up for my newsletter](https://www.thepromptindex.com/newsletter.html)
 
 ## 😄 Pronouns
